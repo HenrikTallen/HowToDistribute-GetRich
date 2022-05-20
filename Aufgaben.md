@@ -1,4 +1,4 @@
 # Aufgaben
 
-## Aufgabe 1
-## Aufgabe 2
+## Aufgabe 1 (Android Standard's)
+## Aufgabe 2 (Firebase)
