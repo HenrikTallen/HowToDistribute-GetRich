@@ -21,6 +21,16 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this@MainActivity, "geilo !", Toast.LENGTH_SHORT).show()
         }
 
-        btn2.setOnClickListener { throw RuntimeException("Whoops") }
+        btn2.setOnClickListener {
+
+            var x = 0
+            while (x != 5) {
+                x++
+                Toast.makeText(this@MainActivity, "geilo !", Toast.LENGTH_SHORT).show()
+                x = 0
+
+            }
+            }
+        }
     }
 }

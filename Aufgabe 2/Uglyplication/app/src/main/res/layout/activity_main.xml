@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFCC81"
+    android:background="#EFD49F"
     tools:context=".MainActivity">
 
     <TextView
@@ -52,9 +52,9 @@
         android:layout_height="53dp"
         android:text="Beste App die ich jemals benutzen durfte"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button1"
-        app:layout_constraintVertical_bias="0.469"
-        tools:layout_editor_absoluteX="-47dp" />
+        app:layout_constraintVertical_bias="0.484" />
 
     <ImageView
         android:id="@+id/imageView"
