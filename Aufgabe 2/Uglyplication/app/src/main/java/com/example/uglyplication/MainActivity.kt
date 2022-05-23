@@ -22,15 +22,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         btn2.setOnClickListener {
-
-            var x = 0
-            while (x != 5) {
-                x++
-                Toast.makeText(this@MainActivity, "geilo !", Toast.LENGTH_SHORT).show()
-                x = 0
-
-            }
-            }
+            throw RuntimeException ("Whoops")  // Zeile durch sinvolle Funktion ersetzen
         }
     }
 }
