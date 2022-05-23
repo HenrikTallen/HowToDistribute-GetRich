@@ -1,5 +1,6 @@
 package com.example.uglyplication
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -22,7 +23,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         btn2.setOnClickListener {
-            throw RuntimeException ("Whoops")  // Zeile durch sinvolle Funktion ersetzen
+            val intent = Intent(this, SideActivity::class.java)
+            startActivity(intent)
         }
+
     }
 }
