@@ -31,5 +31,6 @@ In diesen Aufgabenteil kannst du dir die Analyse-Daten deines durchgeführten Te
 1. Welche Bereiche werden im Test-Ergebnis von "Test Lab" unterteilt bzw. können eingesehen werden?
 2. Was für Fehler wurden entdeckt?
 3. Was für Fehler wurden nicht entdeckt, könnten allerdings problematisch bezüglich der Benutzbarkeit sein?
-4. Wie überzeugend findest du den Dienst "Test Lab" von Firebase?
+4. Welche Daten der Testergebnisse kannst du bezüglich der Performance der App auslesen?
+5. Wie überzeugend findest du den Dienst "Test Lab" von Firebase?
 
