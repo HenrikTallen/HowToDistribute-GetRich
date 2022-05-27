@@ -17,7 +17,7 @@ Hierzu muss das Android-Projekt "Uglyplication" von diesem Repository herunterge
 
 Für diesen Aufgabenteil benötigt man ein Google-Konto.
 
-1. Gehe auf die offizielle Website von Firebase und richte ein Firebase Konto ein (klicke auf den Button 'Get Started'): https://firebase.google.com/
+1. Gehe auf die offizielle Website von Firebase und richte ein Firebase Konto ein bzw. nutze dein Google-Konto dafür (klicke auf den Button 'Get Started'): https://firebase.google.com/
 2. Erstelle nun ein neues Firebase Projekt. Vegebe einen Projektnamen und wähle aus, ob Google Analytics aktiviert oder deaktiviert werden soll. 
 3. Navigiere in der Firebase Console zu den Dienst "Test Lab" im Reiter "Veröffentlichen und Beobachten". 
 4. Füge nun deine kürzlich erstellte .AAB-Datei in den Android-Robo-Test hinzu. 
@@ -25,7 +25,7 @@ Für diesen Aufgabenteil benötigt man ein Google-Konto.
 
 ## Die Testergebnisse
 
-Sollte das Testergebnis deines Tests zu spät fertig werden, kannst du folgende Screenshots als Referenzen für die weiteren Aufgaben verwenden: <Screenshots einfügen>
+Sollte das Testergebnis deines Tests zu spät fertig werden, kannst du folgende Screenshots als Referenzen für die weiteren Aufgaben verwenden: [Firebase Testergebnisse](https://github.com/HenrikTallen/HowToDistribute-GetRich/tree/main/Aufgabe%202/Screenshots_Firebase) 
 In diesen Aufgabenteil kannst du dir die Analyse-Daten deines durchgeführten Tests ansehen. 
 
 1. Welche Bereiche werden im Test-Ergebnis von "Test Lab" unterteilt bzw. können eingesehen werden?
