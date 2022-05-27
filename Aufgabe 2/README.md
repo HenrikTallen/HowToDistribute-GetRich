@@ -25,7 +25,7 @@ Für diesen Aufgabenteil benötigt man ein Google-Konto.
 
 ## Die Testergebnisse
 
-Sollte das Testergebnis deines Tests zu spät fertig werden, kannst du folgende Screenshots als Referenzen für die weiteren Aufgaben verwenden: [Firebase Testergebnisse](https://github.com/HenrikTallen/HowToDistribute-GetRich/tree/main/Aufgabe%202/Screenshots_Firebase) 
+Sollte das Testergebnis deines Tests zu spät fertig werden, kannst du folgende Screenshots als Referenzen für die weiteren Aufgaben verwenden: [Firebase Testergebnisse](https://github.com/HenrikTallen/HowToDistribute-GetRich/tree/main/Aufgabe%202/Screenshots_Firebase) \
 In diesen Aufgabenteil kannst du dir die Analyse-Daten deines durchgeführten Tests ansehen. 
 
 1. Welche Bereiche werden im Test-Ergebnis von "Test Lab" unterteilt bzw. können eingesehen werden?
