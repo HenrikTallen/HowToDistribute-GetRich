@@ -1,10 +1,10 @@
 # Aufgabe 1
 ## Ziel der Aufgabe
-In dieser Aufgabe soll eine rudimentäre Beispiel-App "weiterentwickelt" werden, um einigen Punkten auf der Android Core Qualitätsanforderungen zu befolgen.
+In dieser Aufgabe soll eine rudimentäre Beispiel-App "weiterentwickelt" werden, um einigen Punkten auf der [Android Core Qualitätsanforderungen](https://developer.android.com/docs/quality-guidelines/core-app-quality) zu befolgen.
 
 ## Audio Playback
 Die App spielt während ihrer Laufzeit mithilfe eines [MediaPlayers](https://developer.android.com/reference/android/media/MediaPlayer) Audio ab. Diese soll als Hintergrundmusik für das "Spiel" fungieren.
-1. Beobachte das Verhalten der Musik beim Interagieren, Öffnen und Schießen der App. Welche [Android Core Qualitätsanforderungen](https://developer.android.com/docs/quality-guidelines/core-app-quality) werden hier missachtet?
+1. Beobachte das Verhalten der Musik beim Öffnen und Schießen der App. Welches Verhalten verstößt hier gegen die Qualitätsanforderungen?
 2. Behebe das Fehlverhalten (Tipp: OnPause(), OnResume())
 
 ## Lokalisierung
