@@ -5,7 +5,7 @@
 Die folgenden Testergebnisse entstammen einem Robo-Test von Firebase Test-Lab mit einem **Pixel 5e, API-Ebene 30**. 
 
 1. _Welche Bereiche werden im Test-Ergebnis von "Test Lab" unterteilt bzw. können eingesehen werden?_
-   Testergebnisse aus dem “Test Lab” von Firebase werden in folgende Bereiche unterteilt:
+   <br><br> Testergebnisse aus dem “Test Lab” von Firebase werden in folgende Bereiche unterteilt:
    - **Testprobleme**: Hier wird angezeigt, ob die App kritische Fehler enthält, die zum Absturz führen könnten
    - **Robo**: Hier werden die Aktionspfade der App durch sogenante "Crawling-Pfade" simuliert, um zu evaluieren, ob jede Activity und Funktionalität der App erreichbar ist. 
    - **Logs**: Interne Log-Aufzeichnungen der App vom gehosteten Gerät
@@ -26,5 +26,5 @@ Die folgenden Testergebnisse entstammen einem Robo-Test von Firebase Test-Lab mi
    - CPU Auslastung bei der Startzeit am höchsten (~12%)
 
 5. _Wie überzeugend findest du den Dienst "Test Lab" von Firebase?_
-   Nach unserer Auffassung kann der Dienst "Test Lab" von Firebase höchstens in frühen Phasen der App-Testung eingesetzt werden. Es werden grobe und kritische Fehler erkannt, die dann beseitigt werden können, ohne dass eine echte Testperson diesen Fehler entdecken brauchte. Je nach Gerät sind die Testergebnisse unterschiedlich. So hat dieser Test mit einem Pixel 5e keine Änderungen zur Bedienungshilfe vorgeschlagen, obwohl der Text-Farb-Kontrast deutlich unter den Google App Core Standards liegen. _Bei kleineren Text (< 18pt) sollte der Text-Farb-Kontrast mindestens bei 4,5:1 liegen._ Andere, ältere Geräte erkennen gar nicht erst bestimmte UI-Elemente. 
-   Aus diesen Defiziten können wir schlussfolgern, dass automatische App-Tests keine herkömmlichen bislang ersetzen können. 
+   <br><br>Nach unserer Auffassung kann der Dienst "Test Lab" von Firebase höchstens in frühen Phasen der App-Testung eingesetzt werden. Es werden grobe und kritische Fehler erkannt, die dann beseitigt werden können, ohne dass eine echte Testperson diesen Fehler entdecken brauchte. Je nach Gerät sind die Testergebnisse unterschiedlich. So hat dieser Test mit einem Pixel 5e keine Änderungen zur Bedienungshilfe vorgeschlagen, obwohl der Text-Farb-Kontrast deutlich unter den Google App Core Standards liegen. _Bei kleineren Text (< 18pt) sollte der Text-Farb-Kontrast mindestens bei 4,5:1 liegen._ Andere, ältere Geräte erkennen gar nicht erst bestimmte UI-Elemente. 
+   <br>Aus diesen Defiziten können wir schlussfolgern, dass automatische App-Tests keine herkömmlichen bislang ersetzen können. 
