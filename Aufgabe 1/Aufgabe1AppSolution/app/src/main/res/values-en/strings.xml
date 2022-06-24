@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">High-End Game</string>
+    <string name="winButton">Press to Win</string>
+    <string name="textView">Very hard!</string>
+    <string name="winText">VICTORY</string>
+    <string name="shareButton">Share</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">High-End Spiel</string>
+    <string name="winButton">Drücken, um zu gewinnen!</string>
+    <string name="textView">Sehr schwer!</string>
+    <string name="winText">GEWONNEN</string>
+    <string name="shareButton">Teilen</string>
+</resources>
